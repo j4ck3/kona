@@ -3,10 +3,6 @@ const { REST, Routes } = require('discord.js')
 
 const commands = [
     {
-        name: 'test',
-        description: 'testing command'
-    },
-    {
         name: 'help',
         description: 'Get help how to use the bot.'
     },
